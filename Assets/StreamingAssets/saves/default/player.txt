@@ -1,0 +1,1 @@
+{"w_relativePosition":{"x":0.0,"y":0.0,"z":-10.0},"w_inventory":["{\"type\":5,\"data\":\"{\\\"m_name\\\":\\\"Rouge flamme\\\",\\\"m_frequency\\\":3.0}\"}"],"w_shell":"{\"type\":0,\"data\":\"\"}","w_drill":"{\"type\":0,\"data\":\"\"}","w_redSensor":"{\"type\":0,\"data\":\"\"}","w_greenSensor":"{\"type\":0,\"data\":\"\"}","w_blueSensor":"{\"type\":0,\"data\":\"\"}"}
